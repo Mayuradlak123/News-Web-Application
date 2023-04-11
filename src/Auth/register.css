@@ -1,0 +1,39 @@
+.usercontainer {
+    margin-top: 100px;
+    margin-left: 300px;
+    display: block;
+    font-size: 18px;
+    background-color: black;
+    color: white;
+    width: 800px;
+    padding-bottom: 50px;
+    /* margin-right: 0px; */
+    border-radius: 10px;
+}
+
+h3 {
+    margin-left: 350px;
+}
+
+.usercontainer input {
+    width: 400px;
+    outline: none;
+    height: 50px;
+    background-color: rgb(234, 241, 245);
+    border: none;
+    border-bottom: rgb(8, 8, 8);
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 200px;
+}
+
+.usercontainer button {
+    width: 100px;
+    height: 45px;
+    border: none;
+    border-radius: 10px;
+    margin-left: 330px;
+    background-color: aqua;
+    /* color: white; */
+    /* background-color: rgb(33, 157, 223); */
+}
