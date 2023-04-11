@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import './style.css';
 export  class Navbar
 extends Component {
-   
+    
    render() {
     const style={
       'text-decoration': 'none',
